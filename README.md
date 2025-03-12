@@ -23,6 +23,19 @@ Logs intercepted data to /tmp/sniffed_data.log.
 
 Supports hooking Objective-C and C functions.
 
+Intercept HTTP/HTTPS Requests & Responses (including NSURLSession, CFNetwork, SSL_write, SSL_read)
+
+Bypass SSL Pinning automatically.
+
+Make sure you have Frida installed on your system:
+pip install frida
+
+
+git clone https://github.com/your-repo/SniffX.git
+cd SniffX
+
+Run SniffX with an iOS app name or a PID:
+python3 SniffX.py <app_name_or_PID>
 
 
 
