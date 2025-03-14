@@ -1,4 +1,7 @@
 # Frida-SniffX
+![Frida](https://img.shields.io/badge/Frida-16.5.6-blue) 
+![iOS](https://img.shields.io/badge/iOS-Jailbreak%20Bypass-green)
+![Security](https://img.shields.io/badge/Security-Bypass-red)
 
 SniffX is a Frida-based network traffic inhaler designed to intercept and enrol network connections from iOS apps. It allows security researchers and penetration testing to analyse network activity, including encrypted SSL/TLS traffic
 
